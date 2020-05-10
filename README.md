@@ -1,2 +1,2 @@
 # gitskills
-lixu gege lail
+lixu gege lail git stash
