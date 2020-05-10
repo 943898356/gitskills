@@ -1,0 +1,43 @@
+*   [33mcommit ff5e8f68d3c5f7dbf338e1fda96b7986adb728bb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 7cf0cc5 4bee1d8
+[31m|[m [32m|[m Author: lixu <943898356@qq.com>
+[31m|[m [32m|[m Date:   Sun May 10 16:46:05 2020 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     merge with no-ff
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 4bee1d847dfac762e1d2212efa0867a68fcd85e0[m[33m ([m[1;32mdev[m[33m)[m
+[31m|[m[31m/[m  Author: lixu <943898356@qq.com>
+[31m|[m   Date:   Sun May 10 16:44:51 2020 +0800
+[31m|[m   
+[31m|[m       ha
+[31m|[m   
+*   [33mcommit 7cf0cc5d548086842ac1cc345f82aac5a789680d[m
+[33m|[m[34m\[m  Merge: 7eb1285 4c47f90
+[33m|[m [34m|[m Author: lixu <943898356@qq.com>
+[33m|[m [34m|[m Date:   Sun May 10 16:27:43 2020 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     config fiexed
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit 4c47f902780c83814631bd028d34aafe9e7c5ecc[m
+[33m|[m [34m|[m Author: lixu <943898356@qq.com>
+[33m|[m [34m|[m Date:   Sun May 10 16:21:07 2020 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     update readme
+[33m|[m [34m|[m 
+* [34m|[m [33mcommit 7eb1285c9bf30a79a825981275d8230b19b0d9c5[m
+[34m|[m[34m/[m  Author: lixu <943898356@qq.com>
+[34m|[m   Date:   Sun May 10 16:22:54 2020 +0800
+[34m|[m   
+[34m|[m       simple
+[34m|[m 
+* [33mcommit b11b6cfdd7694d2d769053f6c918a0e36724fff3[m
+[34m|[m Author: lixu <943898356@qq.com>
+[34m|[m Date:   Sun May 10 15:58:20 2020 +0800
+[34m|[m 
+[34m|[m     branch test
+[34m|[m 
+* [33mcommit b692dced5639d03577f7a4d85c54154a35f0c97c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+  Author: 仙人板板 <57177887+943898356@users.noreply.github.com>
+  Date:   Sat May 9 11:20:14 2020 +0800
+  
+      Initial commit
