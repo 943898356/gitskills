@@ -1,2 +1,2 @@
 # gitskills
-lixu gege lail
+Git is a free software
